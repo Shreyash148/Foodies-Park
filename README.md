@@ -1,3 +1,16 @@
+# Foodies Park
+### Home Page
+<img width="400" alt="hmpg" src="https://github.com/Shreyash148/Foodies-Park/assets/97425521/d10efa55-17f2-4a3c-9ab2-c4b8fc58a60b">
+<img width="400" alt="hmpg2" src="https://github.com/Shreyash148/Foodies-Park/assets/97425521/c20a10b8-d7eb-4299-87bb-2e8092ef1c4c">
+
+### Cart and Order Page
+<img width="400" alt="cart" src="https://github.com/Shreyash148/Foodies-Park/assets/97425521/00f152dd-9cf6-40da-8e0e-2dc49773b180">
+<img width="400" alt="orderpg" src="https://github.com/Shreyash148/Foodies-Park/assets/97425521/be796fd6-1079-4600-a4d6-ec075eda8dd4">
+
+### Login/Register Page
+<img width="400" alt="lgnpg" src="https://github.com/Shreyash148/Foodies-Park/assets/97425521/7d42e4e3-44b6-4d42-a137-0a35ab10eada">
+<img width="400" alt="rgtpg" src="https://github.com/Shreyash148/Foodies-Park/assets/97425521/dcea5b88-86cf-44db-b24d-7950402e0da9">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
